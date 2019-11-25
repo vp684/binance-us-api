@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vp684/binance-us-api/issues"
   },
-  "homepage": "https://github.com/vp684/binance-us-api#readme"
+  "homepage": "https://github.com/vp684/binance-us-api#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
